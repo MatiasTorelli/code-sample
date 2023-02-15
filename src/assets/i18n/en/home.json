@@ -1,0 +1,68 @@
+{
+  "home": {
+    "sectionWelcome": {
+      "title": "Grow your business",
+      "subTitle": "Build a solution with us"
+    },
+    "sectionWhatWeDo": {
+      "title": "What do \n we do",
+      "subtitle": "We are a company dedicated to software development, design, and consulting",
+      "description": "Tenzee Solutions' mission is to collaborate with startups and small business that want to scale and grow your business through the development of a customized web and mobile application"
+    },
+    "sectionProcess": {
+      "title": "Our process",
+      "steps": [
+        {
+          "name": "Product Definition",
+          "icon": "Board",
+          "description": "Understand business specifications, market size and define core functionallity"
+        },
+        {
+          "name": "Prototype",
+          "icon": "Prototype",
+          "description": "Define all the prototypes, wireframes and use cases"
+        },
+        {
+          "name": "Design",
+          "icon": "PencinAndRuler",
+          "description": "Create a datailed design of the solution"
+        },
+        {
+          "name": "Development",
+          "icon": "Laptop",
+          "description": "Implemet all the design models, business logic, and service integrations defined in the prior stages"
+        },
+        {
+          "name": "Validation",
+          "icon": "ShieldWithTick",
+          "description": "Ensure that the solution meet the expectations and works properly"
+        },
+        {
+          "name": "Deployment",
+          "icon": "Server",
+          "description": "Deploy the solutions to the cloud when it can finally reach the final users"
+        },
+        {
+          "name": "Continuous Iteration",
+          "icon": "CircleArrow",
+          "description": "Mantain and iterate continuously over the process to continue growing"
+        }
+      ]
+    },
+    "sectionTechnologies": {
+      "title": "Business competitive solutions",
+      "subtitle": "We stay in the vanguard of the top end technologies, choosing the most advanced ones to design, develop and deploy business competitive solutions tailored for each individual client",
+      "technologies": [
+        { "icon": "Vue" },
+        { "icon": "React" },
+        { "icon": "Node" },
+        { "icon": "GraphQl" },
+        { "icon": "AWS" },
+        { "icon": "Salesforce" },
+        { "icon": "Serverless" },
+        { "icon": "Figma" },
+        { "icon": "Apollo" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+@define-mixin resolution-mobile {
+  @media (max-width: 1360px) {
+    @mixin-content;
+  }
+}

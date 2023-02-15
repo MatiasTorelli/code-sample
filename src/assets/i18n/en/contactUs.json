@@ -1,0 +1,16 @@
+{
+  "contactUs": {
+    "title": "Ready for building an amazing \n solution with us?",
+    "inputs": {
+      "name": "Name",
+      "email": "Email",
+      "description": "Description"
+    },
+    "submitMessage": "Thanks for contacting us! We will get in touch with you as soon as possible",
+    "errorCouldNotSubmit": "There was an error submitting the form, please try again later",
+    "errorRequiredName": "Please enter your name",
+    "errorRequiredEmail": "Please enter your email",
+    "errorRequiredDescription": "Please enter a description",
+    "errorInvalidEmail": "The entered email is not valid"
+  }
+}

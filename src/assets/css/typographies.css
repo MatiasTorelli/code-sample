@@ -1,0 +1,81 @@
+@import 'css/responsive.css';
+
+/* #typography-headline-1 {} */
+
+#typography-headline-2 {
+  font-family: 'Montserrat';
+  font-weight: 300;
+  font-size: 6.1rem;
+  line-height: 68px;
+  letter-spacing: 0.5px;
+}
+
+#typography-headline-3 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 4.8rem;
+  line-height: 56px;
+}
+
+#typography-headline-4 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 3.4rem;
+  line-height: 38px;
+}
+
+#typography-headline-5 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 2.4rem;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+#typography-headline-6 {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 2.0rem;
+  line-height: 28px;
+  letter-spacing: 0.15px;
+
+  @add-mixin resolution-mobile {
+    font-size: 1.4rem;
+    line-height: 28px;
+  }
+}
+
+#typography-subtitle-1 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 20px;
+  letter-spacing: 0.15px;
+}
+
+#typography-subtitle-2 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 18px;
+  letter-spacing: 0.1px;
+}
+
+#typography-body-1 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+}
+
+/* #typography-body-2 {} */
+
+
+#typography-button {
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 16px;
+  letter-spacing: 1.25px;
+}

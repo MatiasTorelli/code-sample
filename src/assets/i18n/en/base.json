@@ -1,0 +1,44 @@
+{
+  "base": {
+    "routes": {
+      "home": "Home",
+      "aboutUs": "About Us",
+      "contact": "Contact"
+    },
+    "contactUs": "Contact us",
+    "send": "Send",
+    "footer": {
+      "sections": {
+        "title": "Sections",
+        "pages": {
+          "home": "Home",
+          "aboutUs": "About Us",
+          "contact": "Contact",
+          "terms": "Terms & Conditions",
+          "privacyPolicy": "Privacy Policy"
+        }
+      },
+      "offices": {
+        "title": "Offices",
+        "addres": "8 The Green STE B \n Dover, DE 19901"
+      },
+      "contact": {
+        "title": "Contact",
+        "email": "{'contact'}{'@'}{'domain.com'}"
+      },
+      "info": {
+        "copyright": "© 2022 Solutions, LLC. All rights reserved",
+        "socialMedias": [
+          {
+            "logo": "Instagram",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "logo": "Linkedin",
+            "url": "https://www.linkedin.com"
+          }
+        ]
+      }
+    }
+  }
+}
